@@ -8,7 +8,7 @@ Run build.bat
 Ported from [Chess-OSX](https://github.com/rs49/Chess-OSX) project.
 
 ## Requirements
-Ensure you have commandline compilation set-up fot x64 (cl in the commandlined works). In your visual studio installation directory, go to the VC folder and run "vcvarsall x64".
+Ensure you have command line compilation set-up fot x64 (cl in the command line works). In your visual studio installation directory, go to the VC folder and run "vcvarsall x64".
 
 
 ## References
